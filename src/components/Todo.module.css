@@ -1,0 +1,6 @@
+.span-item {
+  transition: color 0.5s;
+}
+.span-item:hover {
+  color: red;
+}
